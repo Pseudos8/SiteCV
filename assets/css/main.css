@@ -639,6 +639,9 @@ img.me{
 				}
 
 		@media screen and (max-width: 1680px) {
+			.tiny {
+				width: 0%;
+			}
 
 			.row {
 				display: flex;
