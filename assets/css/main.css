@@ -143,6 +143,13 @@ img.color {
   border-radius: 5px;	
 }
 
+img.prjct{
+  width: 50%;
+  height: auto;
+  border-radius: 5px;
+  text-align: right;
+}
+
 h2.links:hover {
   color: rgba(36, 29, 56, 0.6);
 }
